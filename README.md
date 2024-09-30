@@ -697,7 +697,7 @@ There are a lot of talk, theory, opinions, and buzz around JavaScript frameworks
 
 ## Author
 
-[nemanjam](https://github.com/nemanjam), [Linkedin](https://www.linkedin.com/in/nemanja-mitic)
+[nemanjam](https://github.com/passion-27),
 
 ## References
 
